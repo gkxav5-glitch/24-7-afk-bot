@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gourav_6999-NBFa.aternos.me",
-    "port": 13409,
+    "ip": "eu.anvil-mc.com",
+    "port": 7732,
     "version": "1.20.1",
     "try-creative": false
   },
